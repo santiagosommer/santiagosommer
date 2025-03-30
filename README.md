@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Hello world! I'm Santiago, a Software Developer from Uruguay.
 <!--
 **santiagosommer/santiagosommer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
