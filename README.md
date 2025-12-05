@@ -4,7 +4,7 @@
 
 This is an interactive portfolio I made: <a href="https://santiago-dev-one.vercel.app/">https://santiago-dev-one.vercel.app/</a>
 
-I'm currently looking for job opportunities, feel free to contact me with any offers! <a href="mailto:s.sommerg@gmail.com"><img src="https://img.shields.io/badge/Email-ff4d4d?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+Feel free to contact me with any offers! <a href="mailto:s.sommerg@gmail.com"><img src="https://img.shields.io/badge/Email-ff4d4d?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <h3>Things I code with</h3>
 <p>
